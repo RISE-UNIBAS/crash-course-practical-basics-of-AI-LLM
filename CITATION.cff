@@ -1,0 +1,31 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: 'Crash Course: "Practical Basics of AI/LLM"'
+message: >-
+  If you use this dataset, please cite it using the metadata
+  from this file.
+type: dataset
+authors:
+  - given-names: Sorin
+    family-names: Marti
+    email: sorin.marti@unibas.ch
+    affiliation: University of Basel
+    orcid: 'https://orcid.org/0000-0002-9541-1202'
+  - given-names: Lea
+    family-names: Kasper
+    email: lea.kasper@unibas.ch
+    affiliation: University of Basel
+    orcid: 'https://orcid.org/0000-0002-4671-1700'
+repository-code: >-
+  https://github.com/RISE-UNIBAS/crash-course-practical-basics-of-AI-LLM/
+url: 'https://rise.unibas.ch/'
+abstract: >-
+  Presentation Slides for the crash course: "Practical
+  Basics of AI/LLM"
+keywords:
+  - AI
+  - LLM
+  - Humanities
+  - Research
